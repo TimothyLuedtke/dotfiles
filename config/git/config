@@ -23,4 +23,11 @@
 	cmd = "'' "
 	trustExitCode = true
 [help]
-	autoCorrect = immediate
+    autocorrect = 1
+[alias]
+    gco = git checkout
+    gci = git commit
+    gcim = git commit -m
+    gst = git status
+    gbr = git branch
+    gpl = git pull
