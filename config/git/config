@@ -26,6 +26,8 @@
     autocorrect = 1
 [alias]
     gco = git checkout
+    ga = git add
+    gaa = git add .
     gci = git commit
     gcim = git commit -m
     gst = git status
